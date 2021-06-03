@@ -1,0 +1,2 @@
+{% output file="/rendered.txt" %}
+Hello, {{ github_repo_name }} !
